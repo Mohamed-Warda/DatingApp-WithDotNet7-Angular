@@ -74,3 +74,7 @@ D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-Ap
 D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\Data\UserSeedData.json
+D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\AutoMapper.dll
+D:\COARSES\.NET\Build an app with ASPNET Core and Angular from scratch\Dating-App\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

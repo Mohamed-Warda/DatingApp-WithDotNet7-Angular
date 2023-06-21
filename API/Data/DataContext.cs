@@ -1,5 +1,7 @@
 ﻿
 using DatingApp.Entities;
+using Microsoft.Extensions.Configuration;
+using System.ComponentModel;
 
 namespace DatingApp.Data
 {
@@ -10,5 +12,7 @@ namespace DatingApp.Data
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
         }
+
+      
     }
 }
